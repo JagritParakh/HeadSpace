@@ -1,0 +1,12 @@
+{
+    "GEMINI_API_KEY": "",
+    "FIREBASE_CONFIG": {
+        "apiKey": "",
+        "authDomain": "",
+        "projectId": "",
+        "storageBucket": "",
+        "messagingSenderId": "",
+        "appId": "",
+        "measurementID": ""
+    }
+}
